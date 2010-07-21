@@ -1,0 +1,7 @@
+# ===========================================================================
+# Project:   Thecodeboutique
+# Copyright: ©2010 The Code Boutique
+# ===========================================================================
+
+# Add initial buildfile information here
+config :all, :required => :sproutcore

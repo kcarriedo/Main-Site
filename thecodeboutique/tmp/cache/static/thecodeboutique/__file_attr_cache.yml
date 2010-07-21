@@ -1,0 +1,33 @@
+--- 
+/Users/chadeubanks/iDeveloper/sproutcode/thecodeboutique/apps/thecodeboutique/controllers/container.js: 
+  scan_source: 
+    mtime: 1279739270
+    value: 
+    - - require
+      - "'"
+      - core
+/Users/chadeubanks/iDeveloper/sproutcode/thecodeboutique/apps/thecodeboutique/resources/main_page.js: 
+  scan_source: 
+    mtime: 1279739231
+    value: []
+
+/Users/chadeubanks/iDeveloper/sproutcode/thecodeboutique/apps/thecodeboutique/main.js: 
+  scan_source: 
+    mtime: 1279739242
+    value: []
+
+/Users/chadeubanks/iDeveloper/sproutcode/thecodeboutique/apps/thecodeboutique/resources/main_page.css: 
+  scan_source: 
+    mtime: 1279739281
+    value: []
+
+/Users/chadeubanks/iDeveloper/sproutcode/thecodeboutique/apps/thecodeboutique/core.js: 
+  scan_source: 
+    mtime: 1279739359
+    value: []
+
+/Users/chadeubanks/iDeveloper/sproutcode/thecodeboutique/apps/thecodeboutique/resources/loading.rhtml: 
+  scan_source: 
+    mtime: 1279737876
+    value: []
+
